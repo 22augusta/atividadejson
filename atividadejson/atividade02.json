@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "title":"Arrow",
+        "launchYear":"2012"
+    },
+    {
+        "id":2,
+        "title":"The Flash",
+        "launchYear":"2014"
+    },
+    {
+        "id":3,
+        "title":"Supergirl",
+        "launchYear":"2015"
+    },
+    {
+        "id":4,
+        "title":"Legends Of Tomorrow",
+        "launchYear":"2016"
+    },
+    {
+        "id":5,
+        "title":"Constantine",
+        "launchYear":"2014"
+    },
+    {
+        "Id":6,
+        "title":"Titans",
+        "launchYear":"2018"
+    },
+    {
+        "id":7,
+        "title":"Batwoman",
+        "launchYear":"2019"
+    },
+    {
+        "id":8,
+        "title":"Black Lightning",
+        "launchYear":"2018"
+    },
+    {
+        "id":9,
+        "title":"Superman & Lois",
+        "launchYear":"2021"
+    },
+    {
+        "id":10,
+        "title": "Stargirl",
+        "launchYear":"2020"
+    }
+]
